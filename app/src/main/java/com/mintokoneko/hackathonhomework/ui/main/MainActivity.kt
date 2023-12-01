@@ -1,7 +1,7 @@
 package com.mintokoneko.hackathonhomework.ui.main
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.mintokoneko.hackathonhomework.R
 import com.mintokoneko.hackathonhomework.utils.CustomFragmentManager
 

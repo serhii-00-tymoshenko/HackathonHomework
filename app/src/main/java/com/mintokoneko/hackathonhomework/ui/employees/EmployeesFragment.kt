@@ -49,7 +49,6 @@ class EmployeesFragment : Fragment(), EmployeesContractor.View {
 
     override fun onDestroy() {
         super.onDestroy()
-        CustomFragmentManager.clearBackStackAndAdd(this@EmployeesFragment, TAG)
         _binding = null
     }
 
